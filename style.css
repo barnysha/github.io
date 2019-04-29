@@ -2,7 +2,7 @@
 }
 #main {margin-bottom: 12px; font-size: 18px
 }
-h1, h2, h3 {strong center
+h1, h2, h3 {font-style: strong; text-align: center
 }
 h1{font-size: 36px; margin-bottom: 0px;
 }
